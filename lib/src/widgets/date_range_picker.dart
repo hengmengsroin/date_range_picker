@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_date_range_picker/flutter_date_range_picker.dart';
 
 /// The default [CalendarTheme] used by the date range picker.

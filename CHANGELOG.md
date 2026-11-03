@@ -1,3 +1,9 @@
+# 0.4.0
+
+- Migrate from in-framework `package:flutter/material.dart` and `package:flutter/cupertino.dart` to standalone
+  `material_ui` and `cupertino_ui` packages ([Flutter migration guide](https://docs.flutter.dev/release/breaking-changes/material-ui-and-cupertino-ui)).
+  Apps that pass Material types into this package's APIs should use types from `package:material_ui/material_ui.dart`.
+
 # 0.3.0
 
 - Responsive layout: below `mobileLayoutBreakpoint` (default 550px) the picker shows a single month and the quick
