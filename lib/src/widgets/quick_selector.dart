@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_date_range_picker/flutter_date_range_picker.dart';
 
 /// A widget that displays a list of quick dateRanges that can be selected.

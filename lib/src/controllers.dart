@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutter/cupertino.dart';
+import 'package:cupertino_ui/cupertino_ui.dart';
 import 'package:flutter_date_range_picker/src/models.dart';
 
 /// A controller that handles the logic of the date range picker.

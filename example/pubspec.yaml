@@ -39,6 +39,7 @@ dependencies:
   flutter_date_range_picker:
     path: ../
 
+  material_ui: ^1.9.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
